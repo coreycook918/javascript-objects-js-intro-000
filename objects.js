@@ -1,5 +1,5 @@
 var playlist = {
-  Ghost: "Square Hammer"
+  Phil Ochs: "Square Hammer"
 }
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[''] = ''
