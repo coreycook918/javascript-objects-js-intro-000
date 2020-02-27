@@ -1,5 +1,5 @@
 var playlist = {
-  Ghost: "Square Hammer"
+  Ghost: "Slowdive"
 }
 function updatePlaylist(playlist, artistName, songTitle) {
   playlist[''] = ''
