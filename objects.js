@@ -1,4 +1,4 @@
 var playlist = {
   Ghost: "Square Hammer"
 }
-playlist['NickleBack'] = "How You Remind Me";
+function updatePlaylist(playlist, artistName, songTitle)
